@@ -62,7 +62,7 @@ onMounted(() => {
         <h4>O que está na sua lista de tarefas?</h4>
         <input 
           type="text" 
-          placeholder="e.g. Fazer um video"
+          placeholder="Digite a tarefa do dia!"
           v-model="input_content"/>
 
           <h4>Escolha uma categoria</h4>
